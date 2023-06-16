@@ -66,7 +66,7 @@ body {
 
 .menu_names_container_avg {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   margin-bottom: 0.75vh;
 }
 
