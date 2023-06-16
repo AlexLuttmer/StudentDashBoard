@@ -38,7 +38,7 @@ body {
 .menu_title {
   text-align: center;
   height: 3vh;
-  font-size: 0.825em;
+  font-size: 0.6em;
 }
 
 .menu_container p {
@@ -47,7 +47,7 @@ body {
 
 .menu_text {
   text-align: center;
-  font-size: 0.6375em;
+  font-size: 0.48em;
 }
 
 .menu_dropdown_container {
@@ -91,7 +91,7 @@ body {
 
 .student_checkbox_li {
   height: 3vh;
-  font-size: 0.75em;
+  font-size: 0.575em;
   padding-bottom: 10px;
 }
 
@@ -115,7 +115,7 @@ body {
 
 .student_button {
   width: 100%;
-  font-size: 0.75em;
+  font-size: 0.575em;
   font-family: "Bahnschrift";
 }
 
@@ -125,12 +125,12 @@ body {
 }
 
 .check_all_btn {
-  font-size: 0.75em;
+  font-size: 0.575em;
   font-family: "Bahnschrift";
 }
 
 .back_btn {
-  font-size: 0.75em;
+  font-size: 0.575em;
   font-family: "Bahnschrift";
   text-decoration: none;
 }
@@ -143,21 +143,21 @@ body {
 /* Media BreakPoint (for legibility at very high resolutions) */
 @media (min-width: 1920px) {
   .menu_text {
-    font-size: 0.825em;
+    font-size: 0.6em;
   }
   .menu_dropdown {
-    font-size: 0.825em;
+    font-size: 0.6em;
   }
   .student_checkbox_li {
-    font-size: 0.825em;
+    font-size: 0.6em;
   }
   .student_button {
-    font-size: 0.825em;
+    font-size: 0.6em;
   }
   .check_all_btn {
-    font-size: 0.825em;
+    font-size: 0.6em;
   }
   .back_btn {
-    font-size: 0.825em;
+    font-size: 0.6em;
   }
 }
