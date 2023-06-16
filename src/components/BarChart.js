@@ -26,7 +26,7 @@ function BarChart({ chartData }) {
       <VictoryChart
         theme={VictoryTheme.material}
         width={windowWidth * 2}
-        height={windowHeight * 2.3}
+        height={windowHeight * 2.2}
         padding={{ bottom: 315, top: 50, left: 85, right: 50 }}
       >
         <VictoryAxis
