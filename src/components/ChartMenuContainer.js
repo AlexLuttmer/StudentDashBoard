@@ -13,7 +13,6 @@ function ChartMenuContainer({
   // Menu User Input Handler
   function handleChange(event) {
     const { name, value } = event.target;
-    console.log(name, value);
     if (name === "module") {
       setCurrentModule(parseInt(value));
     } else if (name === "chart-style") {
